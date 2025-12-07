@@ -23,12 +23,12 @@ It showcases my skills, projects, achievements, and contact details in a clean a
 | Frontend | React, Vite |
 | Styling | Tailwind CSS |
 | Icons | Lucide Icons / Custom SVGs |
-| Deployment | GitHub Pages / Vercel / Netlify |
+| Deployment | GitHub Pages / Vercel |
 
 ---
 
 ## 📂 Project Structure
-
+```
 portfolio-cat/
 ├── src/
 │ ├── components/
@@ -39,25 +39,24 @@ portfolio-cat/
 ├── index.html
 ├── package.json
 └── README.md
-
+```
 
 ---
 
 ## 🛠️ Installation & Setup
 
-### 1️⃣ Clone the repository
-
+1️⃣ Clone the repository
 ```sh
 git clone https://github.com/magnabenita/portfolio-cat
 cd portfolio-cat
+```
 2️⃣ Install dependencies
-sh
-Copy code
+```sh
 npm install
+```
 3️⃣ Run the development server
-sh
-Copy code
+```sh
 npm run dev
+```
 Vite will start your project at:
-
 👉 http://localhost:5173
