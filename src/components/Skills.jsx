@@ -16,6 +16,8 @@ const skills = [
   { name: "Git" },
   { name: "Figma" },
   { name: "Canva" },
+  { name: "R" },
+  { name: "MongoDB" },
 ];
 
 const Skills = () => {

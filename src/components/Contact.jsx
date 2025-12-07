@@ -22,8 +22,8 @@ const Contact = () => {
           <p><a href="mailto:magnabenita123@gmail.com" className="text-purple-700">magnabenita123@gmail.com</a></p>
         </div>
         <div className="bg-purple-100 p-4 rounded shadow">
-          <strong>Phone:</strong>
-          <p>+91 904381339</p>
+          <strong>Instagram:</strong>
+          <p>@magnabenita</p>
         </div>
         <div className="bg-purple-100 p-4 rounded shadow">
           <strong>Connect:</strong>

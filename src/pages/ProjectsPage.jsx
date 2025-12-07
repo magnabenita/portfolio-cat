@@ -80,6 +80,34 @@ const allProjects = [
     desc: "Full-stack ecommerce platform with auth, admin dashboard, order history, and analytics.",
     github: "https://github.com/magnabenita/Ecom-website-fb",
   },
+  {
+    title: "AI Task Optimizer",//amdox
+    type: "Solo",
+    tech: "Python, Hugging Face Transformers, FER, Streamlit",
+    desc: "Recommends tasks based on real-time emotion detection from text and webcam.",
+    github: "https://github.com/magnabenita/AI-Task-Optimizer",
+  },
+  {
+    title: "Real-Time Brand Reputation Monitoring with Sentiment & Emotion Analysis",//fda
+    type: "Solo",
+    tech: "Python, NLP (Sentiment & Emotion), Streamlit, News API",
+    desc: "Tracks brand mentions online, analyzes sentiment/emotions, and visualizes trends in real time.",
+    github: "https://github.com/magnabenita/brand_reputation_monitor",
+  },
+  {
+    title: "Polite Rephraser and Email Template Recommender and Intent Classification ",//nlp
+    type: "Solo",
+    tech: "Python, FastAPI, MongoDB, NLP (transformer‑based intent detection & paraphrasing), Streamlit (for optional dashboard)",
+    desc: "A backend tool that analyzes the intent of input text (requests, complaints, information, etc.), then generates polite, context‑aware, professionally phrased email suggestions to match. Built for anyone who wants to draft better emails quickly using NLP-powered rephrasing.",
+    github: "https://github.com/magnabenita/email_assistant",
+  },
+  {
+    title: "IoT-Enabled Smart Borewell Water Quality Monitoring with Machine Learning-Based Potability Prediction ",
+    type: "Solo",
+    tech: "ESP32, Water Quality Sensors, MQTT, Python (Flask), MongoDB, ML (Random Forest)",
+    desc: "Monitors borewell water quality in real time using IoT sensors capturing pH, TDS, turbidity, and temperature. Data is stored in MongoDB and analyzed using ML models to predict potability, enabling early detection of water contamination.",
+    github: "https://github.com/magnabenita/smart-borewell-monitor",
+  },
 ];
 
 const ProjectsPage = () => {

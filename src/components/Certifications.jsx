@@ -6,7 +6,9 @@ const certifications = [
   "Advanced Excel Workshop (2021)",
   "C Programming Training (09/2022)",
   "C++ Programming Training (09/2022)",
-  "Python Programming Training (09/2022)"
+  "Python Programming Training (09/2022)",
+  "Digisailor Internship - MERN Stack Development (07/2025)",
+  "AMDOX Internship - Data Analytics (10/2025)"
 ];
 
 const Certifications = () => {
